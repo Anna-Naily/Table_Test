@@ -1,4 +1,4 @@
-# test_prostor
+# Table with firebase and adding users on Vue 3
 
 ## Project setup
 ```
